@@ -1,0 +1,34 @@
+
+*.pdf
+*.ai
+*.png
+*.tif
+*.psd
+*.JPG
+*.qpc
+*.rtf
+*.doc
+*.lsm
+*.docx
+*.webloc
+*.tiff
+*.csv
+*.R
+*.xlsx
+*.gif
+*.txt
+*.ics
+*.jpeg
+The Node/Animated plots for dynamic data/.Rhistory
+*.zip
+*.history
+*.nd
+The Node/Crafting Plots for Movies/Zenodo/.Rhistory
+*.lut
+The Node/Published/Effect-size/.Rhistory
+The Node/Published/Parrot-P-value/Fig_1-omittingP_v2
+The Node/Published/Plot your data with R - One more time/.Rhistory
+The Node/Published/Tidy-data/Tidy-up-your-data_v3_files/filelist.xml
+The Node/Published/Tidy-data/Tidy-up-your-data_v3_files/themedata.xml
+The Node/Published/Visualizing-heterogeneity-timelapse/.Rhistory
+The Node/Randomization_P-value/.Rhistory
