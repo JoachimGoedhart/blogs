@@ -29,3 +29,9 @@
 | [A hammer doesn’t need a nail](https://www.biotechniques.com/bioengineering-biophysics/a-hammer-doesnt-need-a-nail/)                                                   | Biotechniques | 2019     |
 | [Missed targets](https://www.biotechniques.com/crispr/missed-targets/)                                                                                                 | Biotechniques | 2020     |
 | [Celebrating the Western blot](https://www.biotechniques.com/proteomics/celebrating-the-western-blot/)                                                                 | Biotechniques | 2020     |
+
+
+
+
+#### Counter
+[![HitCount](http://hits.dwyl.com/JoachimGoedhart/blogs.svg)](http://hits.dwyl.com/JoachimGoedhart/blogs)
