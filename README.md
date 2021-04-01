@@ -29,7 +29,7 @@
 | [A hammer doesn’t need a nail](https://www.biotechniques.com/bioengineering-biophysics/a-hammer-doesnt-need-a-nail/)                                                   | Biotechniques | 2019     |
 | [Missed targets](https://www.biotechniques.com/crispr/missed-targets/)                                                                                                 | Biotechniques | 2020     |
 | [Celebrating the Western blot](https://www.biotechniques.com/proteomics/celebrating-the-western-blot/)                                                                 | Biotechniques | 2020     |
-
+| [Hello dark mode, my old friend](https://www.biotechniques.com/lab-design-machinery/hello-dark-mode-my-old-friend/)                                                                 | Biotechniques | 2021     |
 
 
 
