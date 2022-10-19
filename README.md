@@ -25,6 +25,7 @@
 | [Converting spreadsheets to tidy data – Part 2](https://thenode.biologists.com/converting-excellent-spreadsheets-part2/research/)                                                                        | The Node      | 2020     |
 |                                                                                                                                                                        |               |          |
 | [My history with GFP (and other members of the family)](https://focalplane.biologists.com/2020/07/07/my-history-with-gfp-and-other-members-of-the-family/)             | Focal Plane   | 2020     |
+| [60 years of Fluorescent Proteins](https://focalplane.biologists.com/2022/10/04/sixty-years-of-gfp-discovery/)             | Focal Plane   | 2022     |
 |                                                                                                                                                                        |               |          |
 | [A hammer doesn’t need a nail](https://www.biotechniques.com/bioengineering-biophysics/a-hammer-doesnt-need-a-nail/)                                                   | Biotechniques | 2019     |
 | [Missed targets](https://www.biotechniques.com/crispr/missed-targets/)                                                                                                 | Biotechniques | 2020     |
