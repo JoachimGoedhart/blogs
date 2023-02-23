@@ -23,6 +23,7 @@
 | [Dynamic display of data with animated plots](https://thenode.biologists.com/dynamic-display-of-data-with-animated-plots/research/)                                    | The Node      | 2020     |
 | [Crafting plots for movies](https://thenode.biologists.com/crafting-plots-for-movies/research/)                                                                        | The Node      | 2020     |
 | [Converting spreadsheets to tidy data – Part 2](https://thenode.biologists.com/converting-excellent-spreadsheets-part2/research/)                                                                        | The Node      | 2020     |
+| [Protocols for data visualization](https://thenode.biologists.com/protocols-for-data-visualization/education/)                                                                        | The Node      | 2022     |
 |                                                                                                                                                                        |               |          |
 | [My history with GFP (and other members of the family)](https://focalplane.biologists.com/2020/07/07/my-history-with-gfp-and-other-members-of-the-family/)             | Focal Plane   | 2020     |
 | [60 years of Fluorescent Proteins](https://focalplane.biologists.com/2022/10/04/sixty-years-of-gfp-discovery/)             | Focal Plane   | 2022     |
