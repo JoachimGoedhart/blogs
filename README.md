@@ -5,6 +5,7 @@
 | [Choosing the B(right)est Fluorescent Protein: Aggregation Tendency](https://blog.addgene.org/choosing-the-brightest-fluorescent-protein-aggregation-tendancy)         | Addgene       | 2017     |
 | [Fluorescent Proteins 101: When GFP lets you down](https://blog.addgene.org/when-gfp-lets-you-down)                                                                    | Addgene       | 2018     |
 | [Fluorescent Proteins 101: GFP Fusion Proteins - Making the Right Connection](https://blog.addgene.org/gfp-fusion-proteins-making-the-right-connection)                | Addgene       | 2019     |
+| [Visualizing Your Plasmid Request Data](https://blog.addgene.org/visualizing-your-plasmid-request-data)                | Addgene       | 2023     |
 |                                                                                                                                                                        |               |          |
 | [Leaving the bar in five steps](https://thenode.biologists.com/leaving-bar-five-steps/research/)                                                                       | The Node      | 2017     |
 | [See for yourCelLf](https://thenode.biologists.com/see-for-yourcellf/education/)                                                                                       | The Node      | 2017     |
