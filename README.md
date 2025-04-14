@@ -35,9 +35,3 @@
 | [Hello dark mode, my old friend](https://www.biotechniques.com/lab-design-machinery/hello-dark-mode-my-old-friend/)                                                                 | Biotechniques | 2021     |
 
 
-
-#### Counter
-[![HitCount](http://hits.dwyl.com/JoachimGoedhart/blogs.svg)](http://hits.dwyl.com/JoachimGoedhart/blogs)
-
-
-[![HitCount](https://hits.dwyl.com/JoachimGoedhart/blogs.svg?style=flat-square)](http://hits.dwyl.com/JoachimGoedhart/blogs)
