@@ -38,3 +38,6 @@
 
 #### Counter
 [![HitCount](http://hits.dwyl.com/JoachimGoedhart/blogs.svg)](http://hits.dwyl.com/JoachimGoedhart/blogs)
+
+
+[![HitCount](https://hits.dwyl.com/JoachimGoedhart/blogs.svg?style=flat-square)](http://hits.dwyl.com/JoachimGoedhart/blogs)
