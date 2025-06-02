@@ -26,6 +26,7 @@
 | [Converting spreadsheets to tidy data – Part 2](https://thenode.biologists.com/converting-excellent-spreadsheets-part2/research/)                                                                        | The Node      | 2020     |
 | [Protocols for data visualization](https://thenode.biologists.com/protocols-for-data-visualization/education/)                                                                        | The Node      | 2022     |
 | [Painless Preprint Posting](https://thenode.biologists.com/painless-preprint-posting/outreach/)                                                                        | The Node      | 2025     |
+| [Visualizing with Vibes: Potential and Pitfalls](https://thenode.biologists.com/visualizing-with-vibes-potential-and-pitfalls)                                                                        | The Node      | 2025     |
 |                                                                                                                                                                        |               |          |
 | [My history with GFP (and other members of the family)](https://focalplane.biologists.com/2020/07/07/my-history-with-gfp-and-other-members-of-the-family/)             | Focal Plane   | 2020     |
 | [60 years of Fluorescent Proteins](https://focalplane.biologists.com/2022/10/04/sixty-years-of-gfp-discovery/)             | Focal Plane   | 2022     |
